@@ -17,3 +17,5 @@ Process should go like this:
 2) Event information sent to Karina in an email about everything user has filled out through form. 
 3) Karina should approve the event and book it.
 
+REFERENCE RESERVATION SECTION OF SOZOCOFFEEHOUSE.COM FOR FURTHER INFORMATION
+
